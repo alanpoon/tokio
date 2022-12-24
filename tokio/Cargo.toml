@@ -1,12 +1,12 @@
 [package]
-name = "tokio_wasi"
+name = "tokio"
 # When releasing to crates.io:
 # - Remove path dependencies
 # - Update doc url
 #   - README.md
 # - Update CHANGELOG.md.
 # - Create "v1.0.x" git tag.
-version = "1.21.3"
+version = "1.23.0"
 edition = "2018"
 rust-version = "1.49"
 authors = ["Tokio Contributors <team@tokio.rs>"]
